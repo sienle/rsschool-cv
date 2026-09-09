@@ -35,3 +35,8 @@ var isAnagram = function(test, original) {
 };
 ```
 
+### Education background
+* Self-education on online platforms
+
+### Knowledge of English
+* intermediate (B1)

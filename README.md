@@ -1,2 +1,2 @@
 # rsschool-cv
-CV for RS School
+[Markdown CV for RS School](https://sienle.github.io/rsschool-cv/cv)

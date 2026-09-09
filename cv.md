@@ -7,3 +7,20 @@ My main life priority is to master a new profession that is in demand in modern 
 
 My strengths: curiosity, great interest in creativity, love to solve problems, the ability to quickly learn the material, hard work.
 
+### 🛠️ My Skills
+
+**Languages**
+
+`TypeScript` `JavaScript` `HTML5` `CSS3`
+
+**Frontend**
+
+`React` `Redux` `React Hook Form`
+
+**Tools & Technologies**
+
+`Webpack` `Vite` `Axios` `Zod` `Git` `GitHub` `Figma`
+
+**Development**
+
+`REST API` · `Responsive Design` · `Async JavaScript` · `WebSocket` · `MVC`

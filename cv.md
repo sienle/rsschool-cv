@@ -24,3 +24,14 @@ My strengths: curiosity, great interest in creativity, love to solve problems, t
 **Development**
 
 `REST API` · `Responsive Design` · `Async JavaScript` · `WebSocket` · `MVC`
+
+### 💻 Code Examples
+
+```Javascript
+var isAnagram = function(test, original) {
+  let word1 = test.toLowerCase().split('').sort().join('');
+  let word2 = original.toLowerCase().split('').sort().join('');
+  return (word1 == word2)
+};
+```
+
